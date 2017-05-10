@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2017\Projects\pather\pather\bin\Debug\pather.exe.config
+c:\users\alexander\documents\visual studio 2017\Projects\pather\pather\bin\Debug\pather.exe
+c:\users\alexander\documents\visual studio 2017\Projects\pather\pather\bin\Debug\pather.pdb
+c:\users\alexander\documents\visual studio 2017\Projects\pather\pather\obj\Debug\pather.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2017\Projects\pather\pather\obj\Debug\pather.exe
+c:\users\alexander\documents\visual studio 2017\Projects\pather\pather\obj\Debug\pather.pdb
